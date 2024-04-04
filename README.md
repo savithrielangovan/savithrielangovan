@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @savithrielangovan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-savithrielangovan/savithrielangovan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+5+ years of experience in mobile app development
+Working in on both native ( Java , kotlin ,Swift ) & hybrid mobile application development (React Native , Javascript )
+Version control github & bitbucket
+In free time will explore open source projects, frameworks and libraries and will create a POC
+Professional attitude, self-learner, result-oriented team player.
