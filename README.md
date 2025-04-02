@@ -27,4 +27,7 @@ Built with React Native & latest technologies
 
 6.Having the good experience in playstore & appstore release
 
+7.3rd party Analytics Growanalytics for user & event tracking 
+
+
 
